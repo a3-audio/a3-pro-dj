@@ -1,4 +1,4 @@
-# a3-prodj — the A³ pro-DJ
+# a3-pro-dj — the A³ pro-DJ
 
 **Status 2026-10-17: planned, no code yet.**
 
