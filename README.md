@@ -1,5 +1,7 @@
 # a3-pro-dj — the A³ pro-DJ
 
+![The A³ setup: four StemDecks, the desk and A³ Motion](https://a3-audio.github.io/img/a3-setup.jpg)
+
 The DJ's side of [A³ Audio](https://github.com/a3-audio/a3-system), a system for playing DJ and live
 sets in 3D sound. This repository holds two things:
 
