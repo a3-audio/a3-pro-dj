@@ -1,7 +1,7 @@
 Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
 Upstream-Name: A3 Audio - A³ Pro-DJ
 Upstream-Contact: A3 Audio <contact@a3-audio.com>
-Source: https://github.com/a3-audio/a3-prodj
+Source: https://github.com/a3-audio/a3-pro-dj
 Comment: https://a3-audio.com
 
 Files: *
@@ -10,4 +10,16 @@ License: GPL-3.0-or-later
 
 Files: README.md
 Copyright: 2026 Raphael Eismann
+License: CC-BY-SA-4.0
+
+Files: knowledge/* autopilot/*.md research/*.md
+Copyright: 2026 Raphael Eismann and contributors
+License: CC-BY-SA-4.0
+
+Files: research/mj-lab/*.py research/mj-lab/*.sh
+Copyright: 2026 Raphael Eismann and contributors
+License: GPL-3.0-or-later
+
+Files: research/mj-lab/*.md research/mj-lab/report.html research/mj-lab/results/* research/mj-lab/figs/* research/mj-lab/mockups/*
+Copyright: 2026 Raphael Eismann and contributors
 License: CC-BY-SA-4.0
